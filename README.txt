@@ -25,7 +25,7 @@ Installation:
 
 4. Set the hyperparameters:
    In the second cell of the notebook, you will find the hyperparameters. Adjust these values to your desired settings before running the notebook. Default values are provided, but feel free to modify them as needed:
-   - dataset_path = "Extension_data.csv"
+   - dataset_path = "SerieA.csv"
    - mu_1 = 25
    - mu_2 = 25
    - sigma_1 = 25/3
