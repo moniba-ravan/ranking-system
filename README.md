@@ -1,4 +1,4 @@
-# Project for Advanced Probabilistic Machine Learning (UU)
+# Project for Advanced Probabilistic Machine Learning
 
 ## Table of Contents
 - [Description](#description)
